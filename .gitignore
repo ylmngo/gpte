@@ -4,4 +4,5 @@ Include
 Scripts 
 Lib
 pyvenv.cfg
-.zip 
+*.zip 
+*.html
