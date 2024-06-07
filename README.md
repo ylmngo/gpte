@@ -1,5 +1,5 @@
 # gpte 
-Python Script that allows your favourite to write your code 
+Python Script that allows your favourite AI to write your code 
 
 # Getting Started 
 ## Install gpte 
