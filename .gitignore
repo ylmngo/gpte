@@ -6,3 +6,5 @@ Lib
 pyvenv.cfg
 *.zip 
 *.html
+times.txt
+try.py 
